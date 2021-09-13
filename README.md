@@ -28,11 +28,14 @@ For example, given
 X = 7, Y = 11, Z = 3
 
 and the following array A: 
+
+```
 A[0] = 2 
 A[1] = 8 
 A[2] = 4 
 A[3] = 3 
 A[4] = 2 
+```
 
 the function should return 8. 
 
@@ -43,7 +46,9 @@ The scenario is as follows:
 For X = 4, Y = 0, Z = 3 
 
 and array A: 
+```
 A[0] = 5 
+```
 
 the function should return −1. 
 
